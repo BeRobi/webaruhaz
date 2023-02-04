@@ -1,0 +1,43 @@
+
+
+nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.card {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.p10 {
+    padding: 10px; 
+}
+
+.fent {
+    
+    border-top: 1px solid gainsboro ;
+    padding: 10px;
+}
+
+.lent {
+    margin-top: 10px;
+}
+
+.aside {
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(247, 247, 247, 0.959);
+    font-size: large;
+    font-weight: bold;
+}
+
